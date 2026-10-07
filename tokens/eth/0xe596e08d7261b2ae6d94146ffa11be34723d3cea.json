@@ -1,0 +1,27 @@
+{
+  "symbol": "TDX",
+  "name": "TradeX",
+  "type": "ERC20",
+  "address": "0xe596e08d7261b2ae6d94146ffa11be34723d3cea",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://tradextoken.vercel.app",
+  "support": {
+    "email": "tradexofficial@gmail.com",
+    "url": "https://tradextoken.vercel.app"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "github": "https://github.com",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me",
+    "twitter": "https://x.com",
+    "youtube": ""
+  }
+}
